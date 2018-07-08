@@ -22,3 +22,5 @@ function appendKitten(name){
   new_kittens.push(name);
   return new_kittens
 }
+
+function ap
