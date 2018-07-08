@@ -28,3 +28,6 @@ function prependKitten(name){
   new_kittens.unshift(name);
   return new_kittens
 }
+
+function removeLastKitten(name){
+}
